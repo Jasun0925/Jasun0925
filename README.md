@@ -62,22 +62,6 @@
 
 ---
 
-## 🔬 Research
-
-> Ph.D. thesis: *A Lattice-Based Post-Quantum Secure Blockchain Framework for Privacy Protection and Regulatory Auditing*
-
-| Topic                               | Description                                                                                           |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **LLM & Multi-Agent**         | LLM fine-tuning and inference, RAG, agent workflows and research automation                           |
-| **AI × Blockchain**          | Integrating large models with blockchain, payment and enterprise systems                              |
-| **Post-Quantum Cryptography** | Module-LWE / RLWE homomorphic encryption, lattice trapdoor and verifiable deterministic sampling      |
-| **Zero-Knowledge Proofs**     | STARK proof systems, Poseidon commitments, low-degree arithmetization                                 |
-| **Blockchain Privacy**        | Encrypted on-chain transactions, homomorphism–commitment separation, on-chain/off-chain architecture |
-| **Regulatory Auditing**       | Independent and aggregatable audit capability, collusion resistance, priced residual trust            |
-| **Composable Security**       | UC framework extensions, game-based reductions under hybrid adversary models                          |
-
----
-
 ## ⚡ Technologies
 
 **AI / LLM**
