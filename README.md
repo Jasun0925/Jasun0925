@@ -19,20 +19,20 @@
 
 ### 🎓 Education
 
-| Degree | Institution |
-| --- | --- |
-| **Ph.D. in Computer Science** | SEGi University — Information Technology |
-| **M.Sc. in Artificial Intelligence** | Jilin Agricultural University — Computer Science and Technology |
-| **B.Eng.** | Wuhan University of Science and Technology — Computer Applications Technology (Sep 2010 – Jun 2013) |
+| Degree                                     | Institution                                                                                           |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Ph.D. in Computer Science**        | SEGi University — Information Technology                                                             |
+| **M.Sc. in Artificial Intelligence** | Jilin Agricultural University — Computer Science and Technology                                      |
+| **B.Eng.**                           | Wuhan University of Science and Technology — Computer Applications Technology (Sep 2010 – Jun 2013) |
 
 ### 🧭 Experience
 
-| Since | Track |
-| --- | --- |
-| **2026 –** | AI Research |
-| **2020 –** | Blockchain R&D |
+| Since             | Track               |
+| ----------------- | ------------------- |
+| **2026 –** | AI Research         |
+| **2020 –** | Blockchain R&D      |
 | **2015 –** | System Architecture |
-| **2013 –** | System Development |
+| **2013 –** | System Development  |
 
 ---
 
@@ -66,15 +66,15 @@
 
 > Ph.D. thesis: *A Lattice-Based Post-Quantum Secure Blockchain Framework for Privacy Protection and Regulatory Auditing*
 
-| Topic | Description |
-| --- | --- |
-| **LLM & Multi-Agent** | LLM fine-tuning and inference, RAG, agent workflows and research automation |
-| **AI × Blockchain** | Integrating large models with blockchain, payment and enterprise systems |
-| **Post-Quantum Cryptography** | Module-LWE / RLWE homomorphic encryption, lattice trapdoor and verifiable deterministic sampling |
-| **Zero-Knowledge Proofs** | STARK proof systems, Poseidon commitments, low-degree arithmetization |
-| **Blockchain Privacy** | Encrypted on-chain transactions, homomorphism–commitment separation, on-chain/off-chain architecture |
-| **Regulatory Auditing** | Independent and aggregatable audit capability, collusion resistance, priced residual trust |
-| **Composable Security** | UC framework extensions, game-based reductions under hybrid adversary models |
+| Topic                               | Description                                                                                           |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **LLM & Multi-Agent**         | LLM fine-tuning and inference, RAG, agent workflows and research automation                           |
+| **AI × Blockchain**          | Integrating large models with blockchain, payment and enterprise systems                              |
+| **Post-Quantum Cryptography** | Module-LWE / RLWE homomorphic encryption, lattice trapdoor and verifiable deterministic sampling      |
+| **Zero-Knowledge Proofs**     | STARK proof systems, Poseidon commitments, low-degree arithmetization                                 |
+| **Blockchain Privacy**        | Encrypted on-chain transactions, homomorphism–commitment separation, on-chain/off-chain architecture |
+| **Regulatory Auditing**       | Independent and aggregatable audit capability, collusion resistance, priced residual trust            |
+| **Composable Security**       | UC framework extensions, game-based reductions under hybrid adversary models                          |
 
 The thesis prototype runs on an Ethereum client fork with a STARK verification precompile: proving and verification take roughly **0.70 ms** per transfer, with about **152K gas** of precompile overhead.
 
@@ -111,14 +111,6 @@ The thesis prototype runs on an Ethereum client fork with a STARK verification p
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasun0925&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasun0925&layout=compact&hide_border=true&langs_count=8&theme=default)
 
 ---
 
