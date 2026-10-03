@@ -76,8 +76,6 @@
 | **Regulatory Auditing**       | Independent and aggregatable audit capability, collusion resistance, priced residual trust            |
 | **Composable Security**       | UC framework extensions, game-based reductions under hybrid adversary models                          |
 
-The thesis prototype runs on an Ethereum client fork with a STARK verification precompile: proving and verification take roughly **0.70 ms** per transfer, with about **152K gas** of precompile overhead.
-
 ---
 
 ## ⚡ Technologies
