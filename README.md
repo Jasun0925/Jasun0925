@@ -96,8 +96,11 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FFB000?style=flat-square&logo=rust&logoColor=black)
-![ZK-STARK](https://img.shields.io/badge/ZK--STARK-6C3DF4?style=flat-square)
+![Post-Quantum Cryptography](https://img.shields.io/badge/Post--Quantum%20Cryptography-6A0DAD?style=flat-square)
 ![Lattice-Based Crypto](https://img.shields.io/badge/Lattice--Based%20Crypto-1F8A70?style=flat-square)
+![Module-LWE / RLWE](https://img.shields.io/badge/Module--LWE%20%2F%20RLWE-2E7D32?style=flat-square)
+![ZK-STARK](https://img.shields.io/badge/ZK--STARK-6C3DF4?style=flat-square)
+![Zero-Knowledge Proofs](https://img.shields.io/badge/Zero--Knowledge%20Proofs-5C3EE8?style=flat-square)
 ![TEE](https://img.shields.io/badge/TEE%20%2F%20SGX-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 **Architecture & Infrastructure**
