@@ -1,4 +1,4 @@
-![Chen Sun](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=3A7BD5&center=true&vCenter=true&width=640&lines=Chen+Sun+%7C+Hamsa+%7C+Architect;AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Systems;Web3+%C2%B7+Blockchain+%C2%B7+Cryptography;System+Architecture+%C2%B7+Distributed+Systems)
+![Chen Sun](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=3A7BD5&center=true&vCenter=true&width=640&lines=Chen+Sun+%7C+PhD+%7C+Architect;AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Systems;Web3+%C2%B7+Blockchain+%C2%B7+Cryptography;System+Architecture+%C2%B7+Distributed+Systems)
 
 **CHEN SUN** · AI · LLM · Web3 · Blockchain · Cryptography · System Architecture
 
