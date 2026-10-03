@@ -90,6 +90,7 @@
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-0F9D58?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-5C3EE8?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-E67E22?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-FF6F61?style=flat-square)
 ![Agent Harness](https://img.shields.io/badge/Agent%20Harness-8E44AD?style=flat-square)
 
