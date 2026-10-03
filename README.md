@@ -84,6 +84,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-D00000?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5B2C6F?style=flat-square&logo=opencv&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Multimodal-C2185B?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=black)
 ![LoRA / PEFT](https://img.shields.io/badge/LoRA%20%2F%20PEFT-00A67E?style=flat-square)
