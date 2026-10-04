@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chen--sun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-sun-7b48b434b)
 [![IEEE TDSC](https://img.shields.io/badge/IEEE%20TDSC-2026-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/TDSC.2026.3674809)
 [![Singapore](https://img.shields.io/badge/Singapore-FF4B4B?style=flat-square&logo=googlemaps&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Jasun0925&style=flat-square&color=3A7BD5&label=PROFILE+VIEWS)
 
 ---
 
